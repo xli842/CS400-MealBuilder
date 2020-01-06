@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: deppeler
+Class-Path: bin
+Main-Class: application.Main
+
